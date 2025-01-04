@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Vicente Muñoz, estudiante de Ingeniería en Computación 
 
-### 👨‍💻 Desarrollador | 🌱 Apasionado por los juegos
+### 👨‍💻 Desarrollador 
 - 😁 5to año de carrera
 - 👾 Python, Java y C
 - 🔧 Docker, Github, Jira
