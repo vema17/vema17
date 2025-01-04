@@ -7,10 +7,12 @@
 - 🌱 Actualmente aprendiendo JavaScript
 - 📫 [Email](mailto:vema1706@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vicente-munoz-altamirano)
-  
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vema17&show_icons=true&theme=radical)
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vema17&layout=compact&theme=radical)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
