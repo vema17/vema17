@@ -4,7 +4,6 @@
 - 😁 5to año de carrera
 - 👾 Python, Java y C
 - 🔧 Docker, Github, Jira
-- 🌱 Actualmente aprendiendo JavaScript
 - 📫 [Email](mailto:vema1706@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vicente-munoz-altamirano)
 
