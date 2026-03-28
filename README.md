@@ -1,8 +1,7 @@
-# ¡Hola! 👋 Soy Vicente Muñoz, estudiante de Ingeniería en Computación 
+# ¡Hola! 👋 Soy Vicente Muñoz, egresado de Ingeniería en Computación 
 
 ### 👨‍💻 Desarrollador 
-- 😁 5to año de carrera
-- 👾 Python, Java y C
+- 👾 PHP, Javascript, Python, Java y C
 - 🔧 Docker, Github, Jira
 - 📫 [Email](mailto:vema1706@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vicente-munoz-altamirano)
